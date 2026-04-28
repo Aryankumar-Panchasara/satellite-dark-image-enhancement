@@ -393,9 +393,9 @@ Future improvements may include:
 
 ## 👨‍💻 Author
 
-**Aryankumar Panchasara**
-B.Tech ICT (Information and Communication Technology)
-Dhirubhai Ambani University (Formerly DA-IICT)
+**Aryankumar Panchasara**  
+B.Tech ICT (Information and Communication Technology)  
+Dhirubhai Ambani University (Formerly DA-IICT)  
 
 ---
 
