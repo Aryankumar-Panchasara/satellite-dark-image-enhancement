@@ -233,7 +233,9 @@ $$
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
+```bash
 btp_satellite_enhancement/
 ├── src/
 │   ├── pipeline.py
@@ -253,6 +255,7 @@ btp_satellite_enhancement/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ## 📂 Dataset Used
 
@@ -393,8 +396,9 @@ Future improvements may include:
 
 ## 👨‍💻 Author
 
-**Aryan Panchasara**
-B.Tech CSE
+**Aryankumar Panchasara**
+B.Tech ICT (Information and Communication Technology)
+Dhirubhai Ambani University (Formerly DA-IICT)
 
 ---
 
