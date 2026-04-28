@@ -306,9 +306,6 @@ python src/main.py --input ./data/input --output ./data/results
 ## 📊 Evaluation
 
 Evaluated using:
-
-* Entropy
-* Edge preservation
 * Visual comparison
 
 ---
